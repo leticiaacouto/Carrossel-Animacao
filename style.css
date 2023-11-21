@@ -2,9 +2,9 @@
 
 body{
     margin: 0;
-    background: #6f6f6f;
+    background: #F5A385;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: dimgrey;
+    color: #174A18;
 }
 
 .container{
@@ -50,47 +50,47 @@ body{
 }
 
 .imagem:nth-child(1){
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.anhanguera.com%2Ffilosofia%2F&psig=AOvVaw0H87Uz7deWUSBjdE--yZQC&ust=1700568958301000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCBypjH0oIDFQAAAAAdAAAAABAD);
+    background-image: url(https://img.texasmonthly.com/2023/05/picnic-surf-1.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-3.3.1&q=45&w=1600);
     transform: rotateY(0deg) translateZ(430px);
 
 }
 .imagem:nth-child(2){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://i.pinimg.com/originals/45/e3/77/45e377b257d038fe5cbb7eb665a5de05.png);
     transform: rotateY(40deg) translateZ(430px);
 
 }
 .imagem:nth-child(3){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://i.pinimg.com/736x/66/d3/90/66d3903d5fc2749f000dfb8779d30f97.jpg);
     transform: rotateY(80deg) translateZ(430px);
 
 }
 .imagem:nth-child(4){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://images.pexels.com/photos/1508184/pexels-photo-1508184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     transform: rotateY(120deg) translateZ(430px);
 
 }
 .imagem:nth-child(5){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://cdn.concreteplayground.com/content/uploads/2018/12/surf-surfing-water-unsplash-oliver-sjostrom.jpg);
     transform: rotateY(160deg) translateZ(430px);
 
 }
 .imagem:nth-child(6){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://s1.1zoom.me/big0/367/430061-Kycb.jpg);
     transform: rotateY(200deg) translateZ(430px);
 
 }
 .imagem:nth-child(7){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://images.pexels.com/photos/614513/pexels-photo-614513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     transform: rotateY(240deg) translateZ(430px);
 
 }
 .imagem:nth-child(8){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://w0.peakpx.com/wallpaper/677/763/HD-wallpaper-surfboard-hawaii-iphone-surfer-aesthetic.jpg);
     transform: rotateY(280deg) translateZ(430px);
 
 }
 .imagem:nth-child(9){
-    background-image: url(https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/05/6222acae4f84f.jpeg);
+    background-image: url(https://images.ctfassets.net/xhzuh2up4xai/56hYn3N5KYOC5vifmGmCvL/de36681e22cecfa084b68b83520520ff/Best_surfing_movies_of_all_time_0.jpg?fm=jpg&fl=progressive&w=960&h=540&q=75);
     transform: rotateY(320deg) translateZ(430px);
 
 }
