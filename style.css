@@ -1,10 +1,17 @@
 @charset "utf-8";
 
+@font-face {
+    font-family: fonte;
+    src: url(Crash!\ Bang!\ Zipdap!.ttf);
+}
+
 body{
     margin: 0;
     background: #F5A385;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #174A18;
+    font-family: fonte;
+    color: rgba(14, 104, 104, 0.829);
+    text-align: center;
+    
 }
 
 .container{
