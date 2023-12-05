@@ -5,21 +5,28 @@ body{
     margin: 0;
     background: rgba(184, 134, 88, 0.8);
     font-family: bang;
+}
+
+.titulo{
     color: #d10a0a;
     text-align: center;
-    display: flex;
-    min-height: 100%;
+    width: 100%;
     
 }
 
-.footer {
+.rodape{
     text-align: center;
-    font-size: 5em;
-    background-color: rgba(233, 227, 227, 0.555);
-    color:#ca4b4b;
-    margin-top: auto;
-    
+    font-size: 20px;
+    background-color: #d10a0a;
+    color:#ffffff;
+    width: 100%;
+    margin-top: 665px;
+
 }
+
+
+
+
 
 /* .footer1 .footer-content{
     float: inline-end;
@@ -29,7 +36,6 @@ body{
     margin-top: 500px;
     margin-right: 35%;
     
-
 } */
 
 
